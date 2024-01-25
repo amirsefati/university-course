@@ -1,0 +1,10 @@
+body{
+    background-color: #D2FDFF;
+}
+.bg-light{
+    background-color: #EBC9B3!important;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link{
+    background-color: #F2A37D!important;
+}
