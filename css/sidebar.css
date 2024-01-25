@@ -8,3 +8,6 @@ body{
 .nav-pills .show>.nav-link{
     background-color: #F2A37D!important;
 }
+.nav-link{
+    color: #303C6C;
+}
